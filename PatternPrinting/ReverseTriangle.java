@@ -2,6 +2,14 @@ package PatternPrinting;
 
 import java.util.Scanner;
 
+/*
+ * * * * *
+ * * * *
+ * * *
+ * *
+ *
+ */
+
 public class ReverseTriangle {
     public static void main(String args[]) {
         Scanner s = new Scanner(System.in);
